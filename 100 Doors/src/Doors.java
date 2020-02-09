@@ -21,8 +21,7 @@ public class Doors {
 				doors[j-1] = doorSwitch(doors[j-1]);
 								
 			}		
-		}
-		
+		}		
 		
 		System.out.print("Open doors: ");		
 		for (int i = 0; i < doors.length; i++) {
