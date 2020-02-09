@@ -50,6 +50,5 @@ public class Doors {
 			nums = 0;
 		}
 		return nums;
-
 	}
 }
